@@ -48,8 +48,9 @@ Readers move beyond isolated scripts and learn how practical machine learning sy
 ## The book progressively transforms:
 ```
 notebooks → reusable functions → modules → pipelines → workflow systems
-By the end of the book, readers will have assembled a complete reusable workflow project that can serve as the foundation for larger machine learning systems and production-oriented architectures.
 ```
+By the end of the book, readers will have assembled a complete reusable workflow project that can serve as the foundation for larger machine learning systems and production-oriented architectures.
+
 ## Who This Book Is For
 This book is ideal for:
 
